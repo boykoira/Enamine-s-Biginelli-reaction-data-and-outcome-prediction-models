@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Fragmentations>
+  <Header StrictFrg="False">IIAB--1-3.hdr</Header>
+  <Fragmentation Max="3" Min="1" Atom="A" Bond="B" Cycle="False" DynBnd="0" AtomFrg="False" Isotope="False" Radical="False" Extended="NoFX" MarkAtom="0" Topology="II" AtomPairs="False" DoAllWays="False" FuzzyAtom="False" ColorAField="Default" ColorBField="Default" FormalCharge="False"/>
+</Fragmentations>
