@@ -86,7 +86,7 @@ See the `LICENSE` file for details.
 
 Data and trained models are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-See the `LICENSE\_DATA\_MODELS` file for details.
+See the `LICENSE_DATA_MODELS` file for details.
 
 This means that the data and models may be used, shared, and adapted for non-commercial purposes, provided appropriate credit is given.
 
