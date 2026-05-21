@@ -30,9 +30,6 @@ The repository includes:
 /models
     Trained reaction outcome prediction models.
 
-/scripts
-    Scripts for data preprocessing, descriptor generation, model training, and evaluation.
-
 ```
 
 \---
@@ -47,13 +44,12 @@ The curated datasets were prepared for machine learning workflows as described i
 
 ### Models
 
-The repository contains three trained reaction outcome prediction models used to predict the external test set, as described in the publication.
+The repository contains three trained reaction outcome prediction models used to predict the external test set, as described in the publication. Additional files, necessary for data preprocessing and descriptor calculation, are provided.
 
 \---
 
 ### Code and scripts
 
-The scripts are provided to enable the appropriate use of prediction models.
 Please refer to the comments and descriptions in the corresponding folders for usage details.
 
 \---
