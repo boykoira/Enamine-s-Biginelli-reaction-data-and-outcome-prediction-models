@@ -1,6 +1,6 @@
 # 🧪Enamine's Biginelli reaction data and outcome prediction models
 
-This repository contains Enamine's Biginelli reaction data, both raw and curated, and three reaction outcome prediction models with corresponding scripts and descriptions, as part of the Supplementary Information for our paper:
+This repository contains Enamine's Biginelli reaction data, both raw and curated, and three reaction outcome prediction models with associated files and descriptions, as part of the Supplementary Information for our paper:
 
 **Predicting Reactivity and Reaction Yields in Parallel Synthesis: Meeting of Expectations and Reality**
 
@@ -50,7 +50,7 @@ The repository contains three trained reaction outcome prediction models used to
 
 ### Code and scripts
 
-Please refer to the comments and descriptions in the corresponding folders for usage details.
+Please refer to the comments and descriptions in the corresponding directories for usage details.
 
 \---
 
@@ -69,14 +69,6 @@ DOI: 10.26434/chemrxiv.15000783
 \---
 
 ## 📜License
-
-Different components of this repository are licensed separately.
-
-### Code
-
-Code and scripts are licensed under the **MIT License**.
-
-See the `LICENSE` file for details.
 
 ### Data and models
 
