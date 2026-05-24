@@ -6,3 +6,5 @@
  The Biginelli product core substucture is provided to access the applicability of these models to your compounds. 
 
  For the usage of *libsvm* models for predictions, please refer to the  *libsvm* [documentation](https://github.com/cjlin1/libsvm/tree/master), specifically, *svm-predict*.
+
+Other models, used in this work, may be available upon request. Please contact the corresponding authors of the [paper](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000783/v1) for any further questions.
