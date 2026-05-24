@@ -29,9 +29,7 @@ The repository includes:
 
 /models
     Trained reaction outcome prediction models.
-
 ```
-
 \---
 
 ### Data
