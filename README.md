@@ -88,7 +88,7 @@ The models are provided for research and reproducibility purposes. Their applica
 
 ## 🤝Acknowledgements
 
-This work is based on experimental reaction data generated at **Enamine Ltd.**.
+This work is based on experimental reaction data generated at **Enamine Ltd.** in collaboration with the Laboratory of Chemoinformatics, UMR 7140, CNRS University of Strasbourg. 
 
 \---
 
