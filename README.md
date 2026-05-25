@@ -54,16 +54,23 @@ Please refer to the comments and descriptions in the corresponding directories f
 
 ## 📚Citation
 
-If you use the data, models, or code from this repository, please cite the associated paper:
+If you use the datasets, models, or other materials provided in this repository, please cite both the associated paper and the Zenodo archive:
 
+### Paper
 ```text
 Boiko, I.; et al.
 Predicting Reactivity and Reaction Yields in Parallel Synthesis:
 Meeting of Expectations and Reality.
-ChemRxiv, 2025.
+ChemRxiv (2026).
 DOI: 10.26434/chemrxiv.15000783
 ```
-
+### Data 
+```text
+Boiko, I.; et al.
+Enamine's Biginelli reaction data.
+Zenodo (2026).
+DOI: 10.5281/zenodo.19949207
+```
 \---
 
 ## 📜License
