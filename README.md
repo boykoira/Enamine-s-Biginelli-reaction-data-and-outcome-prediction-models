@@ -69,7 +69,7 @@ DOI: 10.26434/chemrxiv.15000783
 Boiko, I.; et al.
 Enamine's Biginelli reaction data.
 Zenodo (2026).
-DOI: 10.5281/zenodo.19949207
+DOI: 10.5281/zenodo.19949206
 ```
 \---
 
